@@ -1,2 +1,0 @@
-# noteJotter
-Note Jotter
