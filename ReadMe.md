@@ -25,7 +25,9 @@ npm start to run in local host, but this is deployed on Heroku.
 ### Contributors
 Dora & Manny 
 
-### Tests
+### ScreenShot
+
+![SNAPS 2021-03-20 at 6 27 46 PM](https://user-images.githubusercontent.com/63210444/111890770-f94d4080-89a9-11eb-9fa4-e326b444c2ae.png)
  
 
 ### Licenses
