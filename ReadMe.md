@@ -17,7 +17,7 @@ This application allows you to create and save personal notes into an aplciation
 * [Questions](#questions)
 
 ### Installation
-Deployed on Heroku 
+Deployed on Heroku https://notejotter.herokuapp.com/
 
 ### How to use.
 npm start to run in local host, but this is deployed on Heroku. 
